@@ -2,6 +2,7 @@
 PG2 - sistemas operacionais II
 
 alias java8=~/Downloads/openlogic-openjdk-8u262-b10-linux-64/bin/java
+
 alias javac8=~/Downloads/openlogic-openjdk-8u262-b10-linux-64/bin/javac
 
 run servidor: 
